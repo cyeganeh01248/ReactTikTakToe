@@ -14,7 +14,7 @@ src/
   css/
     index.css
   index.html
-  index.ts
+  index.tsx
   js/
     app.tsx
     game.ts
@@ -76,7 +76,7 @@ This file contains the main React components for the app.
 
 This file contains the logic for the game, including the `Board` class and `makePlay` function.
 
-### `index.ts`
+### `index.tsx`
 
 This file initializes the React app and renders it to the DOM.
 
