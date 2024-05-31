@@ -1,5 +1,4 @@
 import * as React from "react";
-import {} from "./common-components";
 import { Board, makePlay } from "./game";
 import { useState } from "react";
 export { App };
